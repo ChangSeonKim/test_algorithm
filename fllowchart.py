@@ -6,4 +6,4 @@ else :
     C = 5 
 C = 5 +  D
 
-print("")
+print("1")
